@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "742571103947",
+    "project_id": "flutter-chat-85b6f",
+    "storage_bucket": "flutter-chat-85b6f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:742571103947:android:0a6b480da02f9141c16d4e",
+        "android_client_info": {
+          "package_name": "com.duremika.chat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "742571103947-sfvje1g9nfjdhsue6f0eg50a8rkcva6d.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBwlaHkD5KouSf7d91GFCGCS_qnjrTVvtg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "742571103947-sfvje1g9nfjdhsue6f0eg50a8rkcva6d.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
